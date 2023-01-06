@@ -10,3 +10,8 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+Who are we? Discord Blocks is a open-source group of developers who work on maintaining our product, Discord Blocks! Discord Blocks allows users to create Discord bots
+with block-based coding
+
+More Info Here Soon!
